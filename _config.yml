@@ -1,11 +1,11 @@
 # Site settings
 author: Andrew Eames
-title: 
+title: What It Do
 header-img: img/home-bg.png
 email: ajerxs@gmail.com
 copyright_name: Andrew Eames
 description: > # this means to ignore newlines until "baseurl:"
-  
+  or don't.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ajerxs
